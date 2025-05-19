@@ -3,7 +3,7 @@ https://zesty-faloodeh-dfbbc8.netlify.app/
 
 # ✍️ Personal Blog Website 🌐
 
-![Website](https://zesty-faloodeh-dfbbc8.netlify.app/)
+https://zesty-faloodeh-dfbbc8.netlify.app/
 
 > 📝 A sleek and functional **Blog Website** built during my internship at **MICRO IT**.  
 > Share ideas, articles, or news with an elegant interface – fully responsive and developed using modern web technologies.
